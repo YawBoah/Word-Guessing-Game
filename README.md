@@ -1,7 +1,6 @@
 # Word Guessing Game
 
-![image](https://github.com/YawBoah/Word-Guessing-Game/assets/126890146/01294553-bc67-4fb6-ac57-ccff343351ac)
-
+![image](https://github.com/YawBoah/Word-Guessing-Game/assets/126890146/f0240f5a-bd10-4d8e-ae59-cb9b0fe83443)
 
 ## Description
 
