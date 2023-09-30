@@ -1,5 +1,113 @@
 const wordList = [
     {
+        word: "Sailboat",
+        hint: "Boat propelled by sails"
+    },
+    {
+        word: "Cherry",
+        hint: "Small, red fruit"
+    },
+    {
+        word: "Lighthouse",
+        hint: "Tall tower with a light to guide ships"
+    },
+    {
+        word: "Canyon",
+        hint: "Deep, narrow valley with steep sides"
+    },
+    {
+        word: "Penguin",
+        hint: "Flightless, black and white bird"
+    },
+    {
+        word: "Rainforest",
+        hint: "Lush, tropical woodland with rainfall"
+    },
+    {
+        word: "Candle",
+        hint: "Wax stick with a wick for lighting"
+    },
+    {
+        word: "Dragon",
+        hint: "Mythical fire-breathing creature"
+    },
+    {
+        word: "Cappuccino",
+        hint: "Espresso-based coffee with steamed milk"
+    },
+    {
+        word: "Serenade",
+        hint: "Musical performance, often romantic"
+    },
+    {
+        word: "Rainbow",
+        hint: "Colorful arc in the sky after rain"
+    },
+    {
+        word: "Desert",
+        hint: "Dry, arid landscape with little rainfall"
+    },
+    {
+        word: "Tiger",
+        hint: "Large, striped carnivorous feline"
+    },
+    {
+        word: "Carousel",
+        hint: "Merry-go-round amusement ride"
+    },
+    {
+        word: "Dolphin",
+        hint: "Marine mammal known for its intelligence"
+    },
+    {
+        word: "Orchestra",
+        hint: "Large ensemble of musicians"
+    },
+    {
+        word: "Harbor",
+        hint: "Sheltered area for ships"
+    },
+    {
+        word: "Astronaut",
+        hint: "Person trained for space travel"
+    },
+    {
+        word: "Cottage",
+        hint: "Small, cozy country house"
+    },
+    {
+        word: "Palm Tree",
+        hint: "Tropical tree with feather-like leaves"
+    },
+    {
+        word: "Peacock",
+        hint: "Colorful and elegant bird"
+    },
+    {
+        word: "Waterfall",
+        hint: "Flowing water from a height"
+    },
+    {
+        word: "Cave",
+        hint: "Natural underground chamber"
+    },
+    {
+        word: "Sushi",
+        hint: "Japanese dish with vinegared rice and seafood"
+    },
+    {
+        word: "Journey",
+        hint: "Adventure or travel from one place to another"
+    },
+    {
+        word: "Carnival",
+        hint: "Festive event with games and rides"
+    },
+    {
+        word: "Pirate",
+        hint: "Seafarer who engages in robbery and plunder"
+    },
+    {
         word: "python",
         hint: "programming language"
     },
