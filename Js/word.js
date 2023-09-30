@@ -220,7 +220,7 @@ const wordList = [
         hint: "a relational database system"
     },
     {
-        word: "nepal",
+        word: "ghana",
         hint: "developing country name"
     },
     {
