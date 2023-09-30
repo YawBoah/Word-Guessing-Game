@@ -155,6 +155,186 @@ const wordList = [
         word: "ghanaian textiles",
         hint: "Variety of colorful fabrics used for clothing"
     },
+     {
+            word: "Accra",
+            hint: "Capital city of Ghana"
+        },
+        {
+            word: "Ashanti",
+            hint: "Ethnic group in Ghana"
+        },
+        {
+            word: "Cocoa",
+            hint: "Important crop and export of Ghana"
+        },
+        {
+            word: "Kente",
+            hint: "Traditional woven fabric in Ghana"
+        },
+        {
+            word: "Gold Coast",
+            hint: "Former name of Ghana due to gold resources"
+        },
+        {
+            word: "Ghanaian Cedi",
+            hint: "Currency of Ghana"
+        },
+        {
+            word: "Independence",
+            hint: "Ghana gained independence from British colonial rule in 1957"
+        },
+        {
+            word: "Ghana Black Stars",
+            hint: "National football (soccer) team of Ghana"
+        },
+        {
+            word: "Adinkra Symbols",
+            hint: "Traditional symbols representing concepts in Ghanaian culture"
+        },
+        {
+            word: "Fufu",
+            hint: "Popular Ghanaian staple food made from cassava and plantains"
+        },
+        {
+            word: "Cape Coast Castle",
+            hint: "Historic slave trading fort in Ghana"
+        },
+        {
+            word: "Asante Stool",
+            hint: "Symbol of Ashanti unity and power"
+        },
+        {
+            word: "Akosombo Dam",
+            hint: "Hydropower dam on the Volta River in Ghana"
+        },
+        {
+            word: "Akan",
+            hint: "Ethnic group in Ghana known for their culture and language"
+        },
+        {
+            word: "Ghanaian Jollof Rice",
+            hint: "Delicious rice dish with a Ghanaian twist"
+        },
+        {
+            word: "Citi FM",
+            hint: "Popular radio station in Ghana"
+        },
+        {
+            word: "Lake Volta",
+            hint: "Largest man-made lake in the world by surface area, located in Ghana"
+        },
+        {
+            word: "Kwame Nkrumah",
+            hint: "First President of Ghana and a key figure in the country's independence movement"
+        },
+        {
+            word: "Adomi Bridge",
+            hint: "Iconic bridge spanning the Volta River in Ghana"
+        },
+        {
+            word: "Ghanaian Highlife Music",
+            hint: "Popular genre of music blending African and Western influences"
+        },
+        {
+            word: "Ghanaian Hospitality",
+            hint: "Warm and welcoming culture of the Ghanaian people"
+        },
+        {
+            word: "Cedi Beads",
+            hint: "Traditional Ghanaian beads made from glass or ceramic"
+        },
+        {
+            word: "Makola Market",
+            hint: "Famous market in Accra, Ghana"
+        },
+        {
+            word: "Nkrumah Mausoleum",
+            hint: "Memorial dedicated to Kwame Nkrumah in Accra"
+        },
+        {
+            word: "Ghanaian Kente Weaving",
+            hint: "Art of weaving colorful and intricate Kente cloth"
+        },
+        {
+            word: "W.E.B. Du Bois Center",
+            hint: "Historical site honoring the civil rights activist in Accra"
+        },
+        {
+            word: "Ghanaian Films",
+            hint: "Ghana's growing film industry known as 'Ghallywood'"
+        },
+        {
+            word: "Cocoa Swollen Shoot Virus",
+            hint: "Disease affecting cocoa plants in Ghana"
+        },
+        {
+            word: "Ghanaian Bead-making",
+            hint: "Craftsmanship in creating intricate bead designs"
+        },
+        {
+            word: "Cocoa Board of Ghana",
+            hint: "Government agency overseeing cocoa production"
+        },
+        {
+            word: "Ghanaian Dance",
+            hint: "Energetic and rhythmic traditional dance forms"
+        },
+        {
+            word: "Cape Three Points",
+            hint: "Southernmost point in Ghana"
+        },
+        {
+            word: "Ghanaian Sankofa Bird",
+            hint: "Symbolizing learning from the past in Akan culture"
+        },
+        {
+            word: "Ghanaian Fufu Pounder",
+            hint: "Traditional utensil used to pound fufu"
+        },
+        {
+            word: "Ghanaian Art",
+            hint: "Vibrant and diverse art scene in Ghana"
+        },
+        {
+            word: "Ghanaian Proverbs",
+            hint: "Wise sayings reflecting cultural values and wisdom"
+        },
+        {
+            word: "Ghanaian Handicrafts",
+            hint: "Traditional crafts like woodcarving and pottery"
+        },
+        {
+            word: "Kwahu Mountains",
+            hint: "Scenic mountain range in Ghana"
+        },
+        {
+            word: "Ghanaian Textiles",
+            hint: "Variety of colorful fabrics used for clothing"
+        },
+        {
+            word: "Ghanaian Shea Butter",
+            hint: "Natural product with numerous beauty benefits"
+        },
+        {
+            word: "Ghanaian Fante Language",
+            hint: "One of the Akan languages spoken in Ghana"
+        },
+        {
+            word: "Cape Coast University",
+            hint: "Prominent educational institution in Cape Coast"
+        },
+        {
+            word: "Ghanaian Cultural Festivals",
+            hint: "Colorful and lively celebrations throughout the year"
+        },
+        {
+            word: "Ghanaian Suits",
+            hint: "Elegant traditional clothing worn for special occasions"
+        },
+        {
+            word: "Ghanaian Herbal Medicine",
+            hint: "Traditional healing practices using local herbs"
+        },
     {
         word: "sailboat",
         hint: "Boat propelled by sails"
