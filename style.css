@@ -82,3 +82,28 @@ body{
   background: #18a589;
 }
 
+@media screen and (max-width: 460px) {
+    .container {
+      width: 100%;
+    }
+    .container h1{
+      font-size: 22px;
+      padding: 16px 20px;
+    }
+    .container .content{
+      margin: 25px 20px 35px;
+    }
+    .inputs input{
+      height: 51px;
+      width: 50px;
+      margin: 3px;
+      font-size: 22px;
+    }
+    .details p{
+      font-size: 17px;
+    }
+    .content .reset-btn{
+      padding: 14px 0;
+      font-size: 16px;
+    }
+  }
