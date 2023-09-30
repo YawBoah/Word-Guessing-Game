@@ -288,22 +288,6 @@ const wordList = [
         hint: "psychological thriller film"
     },
     {
-        word: "dubai",
-        hint: "developed country name"
-    },
-    {
-        word: "photo",
-        hint: "representation of person or scene"
-    },
-    {
-        word: "nile",
-        hint: "largest river in the world"
-    },
-    {
-        word: "rain",
-        hint: "related to a water"
-    },
-    {
         word: "Dubai",
         hint: "Developed country name"
     },
@@ -326,10 +310,6 @@ const wordList = [
     {
         word: "Ocean",
         hint: "Vast bodies of saltwater on Earth"
-    },
-    {
-        word: "Guitar",
-        hint: "A musical instrument with strings"
     },
     {
         word: "Sunshine",
@@ -404,10 +384,6 @@ const wordList = [
         hint: "Furniture for storing books"
     },
     {
-        word: "Adventure",
-        hint: "Exciting and daring experiences"
-    },
-    {
         word: "Beach",
         hint: "Sandy shore by the sea"
     },
@@ -460,63 +436,8 @@ const wordList = [
         hint: "Lush, tropical woodland with rainfall"
     },
     {
-        word: "Adventure",
-        hint: "Exciting and daring experiences"
-    },
-    {
-        word: "Sunrise",
-        hint: "Dawn and the start of the day"
-    },
-    {
-        word: "Telescope",
-        hint: "Optical instrument for distant viewing"
-    },
-    {
-        word: "Butterfly",
-        hint: "Colorful insect with delicate wings"
-    },
-    {
-        word: "Moonlight",
-        hint: "Illumination from the moon"
-    },
-    {
-        word: "Symphony",
-        hint: "Elaborate musical composition"
-    },
-    {
-        word: "Laughter",
-        hint: "The sound of joy and amusement"
-    },
-    {
-        word: "Chocolate",
-        hint: "Sweet, brown treat made from cacao"
-    },
-    {
-        word: "Waterfall",
-        hint: "Flowing water from a height"
-    },
-    {
-        word: "Starfish",
-        hint: "Marine creature with radial arms"
-    },
-    {
-        word: "Treasure",
-        hint: "Valuable items hidden or buried"
-    },{
-        word: "Lighthouse",
-        hint: "Tall tower with a light to guide ships"
-    },
-    {
-        word: "Adventure",
-        hint: "Exciting and daring experiences"
-    },
-    {
         word: "Camping",
         hint: "Outdoor recreational activity"
-    },
-    {
-        word: "Dolphin",
-        hint: "Marine mammal known for its intelligence"
     },
     {
         word: "Eclipse",
@@ -525,18 +446,6 @@ const wordList = [
     {
         word: "Flower",
         hint: "Colorful and fragrant plant bloom"
-    },
-    {
-        word: "Galaxy",
-        hint: "A massive system of stars and planets"
-    },
-    {
-        word: "Harmony",
-        hint: "Pleasant and balanced combination"
-    },
-    {
-        word: "Island",
-        hint: "Landmass surrounded by water"
     },
     {
         word: "Jungle",
@@ -551,16 +460,8 @@ const wordList = [
         hint: "Inland body of water"
     },
     {
-        word: "Mountain",
-        hint: "Tall landforms with peaks"
-    },
-    {
         word: "Nature",
         hint: "The natural world and its phenomena"
-    },
-    {
-        word: "Ocean",
-        hint: "Vast bodies of saltwater on Earth"
     },
     {
         word: "Paradise",
@@ -569,14 +470,6 @@ const wordList = [
     {
         word: "Quicksilver",
         hint: "Another name for the element mercury"
-    },
-    {
-        word: "Rainbow",
-        hint: "Colorful arc in the sky after rain"
-    },
-    {
-        word: "Sunset",
-        hint: "Evening and the end of the day"
     },
     {
         word: "Thunderstorm",
@@ -591,10 +484,6 @@ const wordList = [
         hint: "Mountain that erupts with lava and ash"
     },
     {
-        word: "Waterfall",
-        hint: "Flowing water from a height"
-    },
-    {
         word: "Xylophone",
         hint: "Musical instrument with wooden bars"
     },
@@ -606,68 +495,6 @@ const wordList = [
         word: "Zebra",
         hint: "A black and white striped African animal"
     },
-    {
-        word: "Adventure",
-        hint: "Exciting and daring experiences"
-    },
-    {
-        word: "Butterfly",
-        hint: "Colorful insect with delicate wings"
-    },
-    {
-        word: "Moonlight",
-        hint: "Illumination from the moon"
-    },
-    {
-        word: "Symphony",
-        hint: "Elaborate musical composition"
-    },
-    {
-        word: "Laughter",
-        hint: "The sound of joy and amusement"
-    },
-    {
-        word: "Chocolate",
-        hint: "Sweet, brown treat made from cacao"
-    },
-    {
-        word: "Waterfall",
-        hint: "Flowing water from a height"
-    },
-    {
-        word: "Starfish",
-        hint: "Marine creature with radial arms"
-    },
-    {
-        word: "Treasure",
-        hint: "Valuable items hidden or buried"
-    },
-    {
-        word: "Dandelion",
-        hint: "Yellow wildflower with fluffy seeds"
-    },
-    {
-        word: "Fireworks",
-        hint: "Explosive displays of light"
-    },
-    {
-        word: "Sunrise",
-        hint: "Dawn and the start of the day"
-    },
-    {
-        word: "Soccer",
-        hint: "Popular ball sport"
-    },
-    {
-        word: "Whisper",
-        hint: "Soft spoken words"
-    },
-    {
-        word: "Castle",
-        hint: "Fortified building with turrets"
-    },
-    {
-        word: "Rainforest",
-        hint: "Lush, tropical woodland with rainfall"
-    }
 ];
+
+
