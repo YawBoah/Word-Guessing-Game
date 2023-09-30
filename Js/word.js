@@ -394,5 +394,172 @@ const wordList = [
     {
         word: "Treasure",
         hint: "Valuable items hidden or buried"
+    },{
+        word: "Lighthouse",
+        hint: "Tall tower with a light to guide ships"
     },
-]
+    {
+        word: "Adventure",
+        hint: "Exciting and daring experiences"
+    },
+    {
+        word: "Camping",
+        hint: "Outdoor recreational activity"
+    },
+    {
+        word: "Dolphin",
+        hint: "Marine mammal known for its intelligence"
+    },
+    {
+        word: "Eclipse",
+        hint: "Obscuring of one celestial body by another"
+    },
+    {
+        word: "Flower",
+        hint: "Colorful and fragrant plant bloom"
+    },
+    {
+        word: "Galaxy",
+        hint: "A massive system of stars and planets"
+    },
+    {
+        word: "Harmony",
+        hint: "Pleasant and balanced combination"
+    },
+    {
+        word: "Island",
+        hint: "Landmass surrounded by water"
+    },
+    {
+        word: "Jungle",
+        hint: "Wild and dense tropical forest"
+    },
+    {
+        word: "Kite",
+        hint: "Flying object on a string"
+    },
+    {
+        word: "Lake",
+        hint: "Inland body of water"
+    },
+    {
+        word: "Mountain",
+        hint: "Tall landforms with peaks"
+    },
+    {
+        word: "Nature",
+        hint: "The natural world and its phenomena"
+    },
+    {
+        word: "Ocean",
+        hint: "Vast bodies of saltwater on Earth"
+    },
+    {
+        word: "Paradise",
+        hint: "A perfect and idyllic place"
+    },
+    {
+        word: "Quicksilver",
+        hint: "Another name for the element mercury"
+    },
+    {
+        word: "Rainbow",
+        hint: "Colorful arc in the sky after rain"
+    },
+    {
+        word: "Sunset",
+        hint: "Evening and the end of the day"
+    },
+    {
+        word: "Thunderstorm",
+        hint: "Storm with lightning, thunder, and rain"
+    },
+    {
+        word: "Umbrella",
+        hint: "Protection from rain and sun"
+    },
+    {
+        word: "Volcano",
+        hint: "Mountain that erupts with lava and ash"
+    },
+    {
+        word: "Waterfall",
+        hint: "Flowing water from a height"
+    },
+    {
+        word: "Xylophone",
+        hint: "Musical instrument with wooden bars"
+    },
+    {
+        word: "Yacht",
+        hint: "Luxury boat for sailing or cruising"
+    },
+    {
+        word: "Zebra",
+        hint: "A black and white striped African animal"
+    },
+    {
+        word: "Adventure",
+        hint: "Exciting and daring experiences"
+    },
+    {
+        word: "Butterfly",
+        hint: "Colorful insect with delicate wings"
+    },
+    {
+        word: "Moonlight",
+        hint: "Illumination from the moon"
+    },
+    {
+        word: "Symphony",
+        hint: "Elaborate musical composition"
+    },
+    {
+        word: "Laughter",
+        hint: "The sound of joy and amusement"
+    },
+    {
+        word: "Chocolate",
+        hint: "Sweet, brown treat made from cacao"
+    },
+    {
+        word: "Waterfall",
+        hint: "Flowing water from a height"
+    },
+    {
+        word: "Starfish",
+        hint: "Marine creature with radial arms"
+    },
+    {
+        word: "Treasure",
+        hint: "Valuable items hidden or buried"
+    },
+    {
+        word: "Dandelion",
+        hint: "Yellow wildflower with fluffy seeds"
+    },
+    {
+        word: "Fireworks",
+        hint: "Explosive displays of light"
+    },
+    {
+        word: "Sunrise",
+        hint: "Dawn and the start of the day"
+    },
+    {
+        word: "Soccer",
+        hint: "Popular ball sport"
+    },
+    {
+        word: "Whisper",
+        hint: "Soft spoken words"
+    },
+    {
+        word: "Castle",
+        hint: "Fortified building with turrets"
+    },
+    {
+        word: "Rainforest",
+        hint: "Lush, tropical woodland with rainfall"
+    }
+];
