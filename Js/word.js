@@ -808,6 +808,86 @@ const wordList = [
         hint: "The state of being free from control or influence of another"
     },
     {
+        word: "mali",
+        hint: "An ancient West African empire known for its wealth and leadership under Mansa Musa"
+    },
+    {
+        word: "songhai",
+        hint: "A major West African empire that flourished in the 15th and 16th centuries"
+    },
+    {
+        word: "transatlantic",
+        hint: "Refers to the trade and movement of people, goods, and cultures between Africa and the Americas across the Atlantic Ocean"
+    },
+    {
+        word: "ashanti",
+        hint: "An ethnic group and kingdom located in present-day Ghana known for its rich cultural heritage"
+    },
+    {
+        word: "iberian",
+        hint: "Relating to the Iberian Peninsula, often associated with European colonial powers like Spain and Portugal in West Africa"
+    },
+    {
+        word: "hutu",
+        hint: "An ethnic group in West Africa, particularly known for its presence in Rwanda and Burundi"
+    },
+    {
+        word: "colonial",
+        hint: "Refers to the period when European powers established colonies and exerted control over West African territories"
+    },
+    {
+        word: "ivory",
+        hint: "A valuable and sought-after material often obtained from West African elephant tusks"
+    },
+    {
+        word: "yoruba",
+        hint: "A prominent ethnic group in West Africa, known for its rich cultural and religious traditions"
+    },
+    {
+        word: "nigeria",
+        hint: "A West African country with a diverse cultural landscape and a significant role in regional history"
+    },
+    {
+        word: "slave",
+        hint: "A person who is owned as property and forced to work, a tragic aspect of West African history"
+    },
+    {
+        word: "bambara",
+        hint: "An ethnic group in West Africa, particularly concentrated in Mali and neighboring countries"
+    },
+    {
+        word: "fulani",
+        hint: "A nomadic pastoralist group spread across West Africa, known for its cultural diversity"
+    },
+    {
+        word: "berber",
+        hint: "An indigenous North African ethnic group with historical connections to trade in the Sahara and Sahel regions"
+    },
+    {
+        word: "ghana",
+        hint: "An ancient West African kingdom known for its wealth and trade networks"
+    },
+    {
+        word: "colonization",
+        hint: "The act or process of establishing foreign rule and control in West African regions"
+    },
+    {
+        word: "dahomey",
+        hint: "A powerful West African kingdom in the present-day Republic of Benin"
+    },
+    {
+        word: "kente",
+        hint: "A colorful woven fabric with cultural significance, often associated with the Ashanti people of Ghana"
+    },
+    {
+        word: "sahara",
+        hint: "The vast desert region in North Africa that has influenced trade and migration in West Africa"
+    },
+    {
+        word: "hassan",
+        hint: "Refers to Ahmad al-Mansur, also known as Sultan Ahmad al-Mansur al-Dhahabi, a significant figure in North African history"
+    },
+    {
         word: "savanna",
         hint: "A grassy plain in tropical and subtropical regions, often with scattered trees"
     },
