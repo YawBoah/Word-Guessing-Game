@@ -788,6 +788,86 @@ const wordList = [
         hint: "Wild and dense tropical forest"
     },
     {
+        word: "pharaoh",
+        hint: "Ancient Egyptian rulers"
+    },
+    {
+        word: "tribe",
+        hint: "A social group with a common ancestry, culture, and dialect"
+    },
+    {
+        word: "colonialism",
+        hint: "The practice of acquiring political control over another country, occupying it with settlers, and exploiting it economically"
+    },
+    {
+        word: "apartheid",
+        hint: "A system of institutionalized racial segregation and discrimination in South Africa"
+    },
+    {
+        word: "independence",
+        hint: "The state of being free from control or influence of another"
+    },
+    {
+        word: "savanna",
+        hint: "A grassy plain in tropical and subtropical regions, often with scattered trees"
+    },
+    {
+        word: "trade",
+        hint: "The exchange of goods and services between people or entities"
+    },
+    {
+        word: "empire",
+        hint: "A group of nations or peoples ruled over by an emperor, empress, or other powerful sovereign"
+    },
+    {
+        word: "gold",
+        hint: "A precious metal often associated with wealth and currency"
+    },
+    {
+        word: "slavery",
+        hint: "The practice of owning and controlling another person as property"
+    },
+    {
+        word: "ancient",
+        hint: "Belonging to a distant past, often referring to historical civilizations"
+    },
+    {
+        word: "culture",
+        hint: "The beliefs, customs, arts, etc., of a particular society, group, place, or time"
+    },
+    {
+        word: "colonization",
+        hint: "The act or process of establishing a colony or settlement"
+    },
+    {
+        word: "invasion",
+        hint: "An incursion by a large number of people or things into a place or sphere of activity"
+    },
+    {
+        word: "tradition",
+        hint: "A belief, custom, or way of doing something that has been passed down from generation to generation"
+    },
+    {
+        word: "liberation",
+        hint: "The act of setting someone free from imprisonment, slavery, or oppression"
+    },
+    {
+        word: "migration",
+        hint: "The movement of people from one place to another, often for work or survival"
+    },
+    {
+        word: "heritage",
+        hint: "The legacy, traditions, or attributes inherited from one's ancestors"
+    },
+    {
+        word: "civilization",
+        hint: "An advanced state of human society, characterized by culture, government, and social development"
+    },
+    {
+        word: "unity",
+        hint: "The state of being united or joined as a whole"
+    },
+    {
         word: "kite",
         hint: "Flying object on a string"
     },
