@@ -32,7 +32,7 @@ The Word Guessing Game is a simple web-based game where players try to guess a w
 
 6. Keep playing to see how many words you can guess correctly and earn a high score!
 
-## Installation
+## Installation:
 
 To run the Word Guessing Game locally, follow these steps:
 
@@ -44,7 +44,7 @@ To run the Word Guessing Game locally, follow these steps:
 
 4. Start playing and enjoy!
 
-## Customization
+## Customization:
 
 You can customize the game by:
 
@@ -54,15 +54,15 @@ You can customize the game by:
 
 - Adding new features and functionalities to enhance the gaming experience.
 
-## Contributing
+## Contributing:
 
 Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request.
 
-## License
+## License:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgments:
 
 - Special thanks to [OpenAI](https://openai.com) for providing the language model used to generate this README.
 
