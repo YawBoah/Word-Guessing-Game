@@ -2,11 +2,11 @@
 
 ![image](https://github.com/YawBoah/Word-Guessing-Game/assets/126890146/f0240f5a-bd10-4d8e-ae59-cb9b0fe83443)
 
-## Description
+## Description:
 
 The Word Guessing Game is a simple web-based game where players try to guess a word based on a hint. The game is built using HTML, CSS, and JavaScript, making it accessible and fun for all users.
 
-## Features
+## Features:
 
 - **Word Database**: The game includes a database of words and hints, making each playthrough unique.
 
@@ -18,7 +18,7 @@ The Word Guessing Game is a simple web-based game where players try to guess a w
 
 - **Responsive Design**: The game is responsive and can be played on various devices, including desktop and mobile.
 
-## How to Play
+## How to Play:
 
 1. Open the game in your web browser.
 
