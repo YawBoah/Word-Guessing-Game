@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔥 Click Here for an Exciting Experience! 🔥
 Ready to challenge your word skills? Click the link below to dive into the captivating world of the Word Guessing Game. Unscramble words, expand your vocabulary, and put your wits to the test. Get ready for a brain-teasing adventure!
 
-[👉 Start Guessing Words Now]()
+[👉 Start Guessing Words Now](https://yawboah.github.io/Word-Guessing-Game/)
 
 Are you up for the challenge? 🚀 Let the word games begin!
 
